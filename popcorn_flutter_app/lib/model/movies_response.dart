@@ -51,7 +51,7 @@ class Movie {
   late final String originalLanguage;
   late final String originalTitle;
   late final String overview;
-  late final double popularity;
+  late final dynamic popularity;
   late final String posterPath;
   late final String releaseDate;
   late final String title;
